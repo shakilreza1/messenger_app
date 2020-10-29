@@ -27,6 +27,7 @@ samples, guidance on mobile development, and a full API reference.
   <li>Chatting with other member's by search their account</li>
   <li>Chatting with each other they can send text messages, emoji, gif and pictures</li>
   <li>Sending Picture form gallery and also using camera</li>
+  <li>Conversation upload pictures can be watch Fully</li>
 </ul> 
 
 # Dependencies
@@ -62,3 +63,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Chatting Conversation Oposite Side
 <img src="Screenshots/Messenger Chatting Oposite.jpg" width=250>&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/Messenger Chatting Oposite2.jpg" width=250>
+
+
+## Full Image
+<img src="Screenshots/Messenger Full Image.jpg" width=250>
