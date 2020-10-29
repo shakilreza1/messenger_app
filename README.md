@@ -17,7 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 
 # Features
 <ul>
-  <li></li>
+  <li>Sign in by using google account</li>
+  <li>Users authenticate by google</li>
+  <li>Users can search other member's who have an account registered</li>
+  <li>Member's search by using their account name</li>
+  <li>Login user can change account picture, profile name</li>
+  <li>Login user can add their bio</li>
+  <li>Account can be update also</li>
+  <li>Chatting with other member's by search their account</li>
+  <li>Chatting with each other they can send text messages, emoji, gif and pictures</li>
+  <li>Sending Picture form gallery and also using camera</li>
 </ul> 
 
 # Dependencies
